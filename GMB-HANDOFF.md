@@ -26,7 +26,7 @@ The public phone and street address are confirmed as supplied by the owner. Lice
 - [x] Exact domain and price approved
 - [ ] Domain registered
 - [x] Local preflight and browser QA passed
-- [ ] Public GitHub repository and Vercel production project created
+- [x] Public GitHub repository and Vercel production project created
 - [ ] Apex and `www` attached; registrar DNS saved
 - [x] Phone supplied and call links completed
 - [x] Address supplied
@@ -38,10 +38,21 @@ The public phone and street address are confirmed as supplied by the owner. Lice
 
 Wheel District Mobile Car Detailing Houston helps Houston drivers arrange careful interior and exterior vehicle care across Houston, Texas. This Car Detailing Houston service focuses on cabin surfaces, exterior panels, wheels, glass, and visible finish details for drivers in Houston, Texas. Wheel District Mobile Car Detailing Houston keeps the service scope tied to the vehicle's current condition and the areas the driver wants addressed. Drivers can use this Car Detailing Houston service for interior, exterior, or complete detailing arranged throughout Houston, Texas. Wheel District Mobile Car Detailing Houston offers online scheduling now, with its confirmed public phone added at final handoff.
 
+## Current state
+
+The locally audited website is published to GitHub and a READY public Vercel fallback with SSO protection disabled. Its unique phone, address, pricing, booking link, and LocalBusiness schema are implemented. The approved `.shop` domain is not registered because Spaceship reported insufficient account balance, so custom DNS, the final GMB file, GeoStamp, and Search Console remain blocked.
+
+## Production links
+
+- Approved custom domain (not registered): `wheeldistrict.shop`
+- Public fallback: https://wheel-district-mobile-car-detailing.vercel.app
+- GitHub: https://github.com/DaInfernalCoder/wheel-district-mobile-car-detailing-houston
+- Vercel: https://vercel.com/dainfernalcoders-projects/wheel-district-mobile-car-detailing-houston
+
 ## Blocker
 
-Spaceship registration is blocked by insufficient account balance. The website, phone, and address can be prepared locally, but final GMB completion and launch require the approved domain to be registered first.
+Spaceship domain registration is blocked by insufficient account balance. The public Vercel fallback works, but final GMB and custom-domain work cannot be completed first.
 
 ## Exact next action
 
-Add at least $2.80 to the Spaceship balance, register `wheeldistrict.shop`, then complete QA, publication, Vercel deployment, DNS, the final GMB pack, and GeoStamp sync.
+Add registrar balance, register `wheeldistrict.shop`, attach the custom domain and DNS, then create the final GMB file, sync GeoStamp, and add its unique Search Console TXT token.
