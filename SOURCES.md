@@ -13,4 +13,4 @@ All photographs are licensed stock used to illustrate detailing context. They do
 - Pexels license: https://www.pexels.com/license/
 - Unsplash license: https://unsplash.com/license
 
-The Wheel District inspection-beam logo is an original SVG created for this site. Local Archivo Black, Manrope, and IBM Plex Mono files are distributed under their Google Fonts open licenses: https://fonts.google.com/
+The Wheel District wheel-ring grid logo is an original SVG created for this site. Local Archivo Black, Manrope, and IBM Plex Mono files are distributed under their Google Fonts open licenses: https://fonts.google.com/

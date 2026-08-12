@@ -1,9 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
   <title id="title">Wheel District logo</title>
-  <desc id="desc">A warm inspection beam revealing a W-shaped wash mark</desc>
-  <rect width="120" height="120" rx="18" fill="#17242B"/>
-  <path d="M43 27h34l9 18v48H34V45z" fill="none" stroke="#E3E8E5" stroke-width="7" stroke-linejoin="round"/>
-  <path d="M42 46h36L70 88H50z" fill="#F0B94C" opacity=".92"/>
-  <path d="m43 58 9 22 8-16 8 16 9-22" fill="none" stroke="#17242B" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M48 27c0-8 4-12 12-12s12 4 12 12" fill="none" stroke="#7BC7B7" stroke-width="6" stroke-linecap="round"/>
+  <desc id="desc">A wheel ring divided by a geometric street grid</desc>
+  <rect width="120" height="120" rx="18" fill="#171A1C"/>
+  <circle cx="60" cy="60" r="39" fill="none" stroke="#D9DEDF" stroke-width="8"/>
+  <circle cx="60" cy="60" r="25" fill="#4D84A5"/>
+  <path d="M60 35v50M35 60h50M42 42l36 36M78 42 42 78" fill="none" stroke="#171A1C" stroke-width="7"/>
+  <circle cx="60" cy="60" r="10" fill="#E0AC3F" stroke="#FAFAF8" stroke-width="4"/>
+  <path d="M15 38h12M93 82h12" fill="none" stroke="#E0AC3F" stroke-width="6" stroke-linecap="square"/>
 </svg>
