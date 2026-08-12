@@ -40,7 +40,7 @@ Wheel District Car Detailing Houston provides mobile interior and exterior servi
 
 ## Current state
 
-The registered custom domain is attached to a READY Vercel production project. GitHub auto-deployment is connected, Vercel SSO protection is disabled, and the public fallback passes HTTPS and brand-content checks. Spaceship confirms Vercel nameservers; public custom-domain propagation remains pending. The phone, address, pricing, schema, final GMB file, image pack, and GeoStamp entry are complete.
+The custom domain is attached to a READY Vercel production project and passes HTTPS and brand-content checks. GitHub auto-deployment is connected and Vercel SSO protection is disabled. The unique Wheel District wheel-ring grid logo, favicon, and matching 1200×1200 GMB logo asset were deployed on August 12, 2026. The phone, address, pricing, schema, final GMB file, image pack, and GeoStamp entry are complete.
 
 ## Production links
 
@@ -51,7 +51,7 @@ The registered custom domain is attached to a READY Vercel production project. G
 
 ## Blocker
 
-Custom-domain DNS/HTTPS propagation and Google Search Console verification remain pending.
+Google Search Console verification remains pending.
 
 ## Exact next action
 
