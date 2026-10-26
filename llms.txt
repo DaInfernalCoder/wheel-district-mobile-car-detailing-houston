@@ -3,9 +3,9 @@
 > Appointment-based mobile car detailing in The Woodlands, Texas.
 
 ## Primary pages
-- [Homepage](https://wheeldistrict.shop/): Business, service, pricing, process, and contact information.
-- [Services](https://wheeldistrict.shop/#services): Interior, exterior, and complete vehicle detailing options.
-- [Local service information](https://wheeldistrict.shop/#local-detailing): How mobile detailing works in The Woodlands.
+- [Homepage](https://woodlandscardetailingtx.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://woodlandscardetailingtx.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://woodlandscardetailingtx.shop/#local-detailing): How mobile detailing works in The Woodlands.
 
 ## Verified business facts
 - Business name: Wheel District Mobile Car Detailing Houston
@@ -17,11 +17,11 @@
 
 <!-- SEO-NEXT:START -->
 ## Expanded pages
-- [Services](https://wheeldistrict.shop/services/)
-- [Interior Car Detailing](https://wheeldistrict.shop/services/interior-car-detailing/)
-- [Exterior Car Detailing](https://wheeldistrict.shop/services/exterior-car-detailing/)
-- [Mobile Car Wash](https://wheeldistrict.shop/services/mobile-car-wash/)
-- [Headlight Restoration & Polishing](https://wheeldistrict.shop/services/headlight-restoration/)
-- [About](https://wheeldistrict.shop/about/)
-- [Contact](https://wheeldistrict.shop/contact/)
+- [Services](https://woodlandscardetailingtx.shop/services/)
+- [Interior Car Detailing](https://woodlandscardetailingtx.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://woodlandscardetailingtx.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://woodlandscardetailingtx.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://woodlandscardetailingtx.shop/services/headlight-restoration/)
+- [About](https://woodlandscardetailingtx.shop/about/)
+- [Contact](https://woodlandscardetailingtx.shop/contact/)
 <!-- SEO-NEXT:END -->

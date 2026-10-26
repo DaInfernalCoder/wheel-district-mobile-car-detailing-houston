@@ -10,7 +10,7 @@ Create and launch Wheel District Mobile Car Detailing Houston as site 48 of the 
 - Market: Houston, Texas
 - Public phone: `+1 346-598-4441`
 - Street address: `1020 Lake Front Cir, The Woodlands, TX 77380`
-- Registered domain: `wheeldistrict.shop`
+- Registered domain: `woodlandscardetailingtx.shop`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
 - Booking: https://cal.com/sumitdatta/auto-detail-service
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
@@ -44,7 +44,7 @@ The custom domain is attached to a READY Vercel production project and passes HT
 
 ## Production links
 
-- Custom domain: https://wheeldistrict.shop
+- Custom domain: https://woodlandscardetailingtx.shop
 - Public fallback: https://wheel-district-mobile-car-detailing.vercel.app
 - GitHub: https://github.com/DaInfernalCoder/wheel-district-mobile-car-detailing-houston
 - Vercel: https://vercel.com/dainfernalcoders-projects/wheel-district-mobile-car-detailing-houston
@@ -55,4 +55,4 @@ Google Search Console verification remains pending.
 
 ## Exact next action
 
-Recheck `https://wheeldistrict.shop` in a later run and add its unique Google Search Console TXT token when supplied.
+Recheck `https://woodlandscardetailingtx.shop` in a later run and add its unique Google Search Console TXT token when supplied.
