@@ -6,7 +6,7 @@
   font-display: swap;
 }
 
-/* Wheel District identity layer */
+/* Woodlands Car Detailing TX identity layer */
 :root {
   --ink: #17242b;
   --deep: #17242b;
@@ -1098,10 +1098,16 @@ h3 {
     background: #081c21;
     transform: translateX(100%);
     transition: transform 220ms ease;
+  
+    visibility: hidden;
+    pointer-events: none;
   }
 
   .site-nav.is-open {
     transform: translateX(0);
+  
+    visibility: visible;
+    pointer-events: auto;
   }
 
   .site-nav > a {
@@ -1527,4 +1533,9 @@ h3 {
   .rate-grid {
     grid-template-columns: 1fr;
   }
+}
+
+/* Contain intentionally off-canvas artwork and the collapsed mobile navigation. */
+html {
+  overflow-x: clip;
 }
