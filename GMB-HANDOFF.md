@@ -12,7 +12,7 @@ Create and launch Wheel District Mobile Car Detailing Houston as site 48 of the 
 - Street address: `1020 Lake Front Cir, The Woodlands, TX 77380`
 - Registered domain: `woodlandscardetailingtx.shop`
 - Registration defaults: 1 year, high privacy with consent, auto-renew off
-- Booking: https://cal.com/sumitdatta/auto-detail-service
+- Booking: https://woodlandscardetailingtx.shop/scheduling
 - Build method: cloned from a validated site family through `scripts/scaffold_sites_from_csv.py`
 - Approval boundary: exact-domain approval is the only launch gate and authorizes the standard automated GitHub, Vercel, custom-host, and DNS workflow
 
